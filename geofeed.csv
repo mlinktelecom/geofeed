@@ -1,8 +1,8 @@
 # Feed for AS273659
 # Published at https://mlinktelecom.com.br/geofeed.csv
 # Last modified: Tue 08 Aug 2023 11:23:49 GMT
-# ip_prefix,alpha2code,region,city,postal_code
 # Number of records: 11
+# ip_prefix,alpha2code,region,city,postal_code
 204.157.236.0/22,BR,BR-PE,Recife,50000-000,
 204.157.236.0/23,BR,BR-PE,Recife,
 204.157.236.0/24,BR,BR-PE,Recife,50000-000,
