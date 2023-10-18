@@ -1,10 +1,8 @@
 # Feed for AS273659
-# Last modified: Tue 03 Otc 2023 14:52:00 GMT-3:00
-# Number of records: 11
+# Last modified: Tue 17 Otc 2023 21:25:00 GMT-3:00
+# Number of records: 9
 # ip_prefix,alpha2code,region,city,postal_code
-204.157.236.0/23,BR,BR-PE,Recife,50000-000,
 204.157.236.0/24,BR,BR-PE,Recife,50000-000,
-204.157.237.0/24,BR,BR-PE,Recife,50000-000,
 191.96.20.0/24,BR,BR-PE,Recife,50000-000,
 2804:8a48::/32,BR,BR-PE,Recife,50000-000,
 2804:8a48::/33,BR,BR-PE,Recife,50000-000,
